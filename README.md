@@ -1,4 +1,7 @@
 # Bottom Navigation Bar With Expandable Menu
+
+> **Created by Antono**
+
 ## [Watch it on youtube](https://youtu.be/xSVZm6TRogE)
 ### Bottom Navigation Bar With Expandable Menu
 
