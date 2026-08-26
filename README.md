@@ -1,1 +1,26 @@
-Last updated: 2026-08-26 16:06:08 WIB
+# bottom-navigation-bar
+
+
+
+## 📋 Overview
+
+This repository contains **17 files** and is built with the following technologies:
+
+HTML
+
+## 🚀 Quick Start
+
+## ✨ Features
+
+- 📝 Auto-generated documentation
+
+## 🛠️ Technologies
+
+HTML
+
+## 📄 License
+
+MIT License
+
+---
+*Last updated: 2026-08-26 16:40:59 WIB*
